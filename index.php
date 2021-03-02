@@ -1,7 +1,7 @@
 <?php
 $is_auth = rand(0, 1);
 
-$user_name = 'vlk01'; // укажите здесь ваше имя
+$user_name = 'Alinatsvet'; // укажите здесь ваше имя
 $categories_list=[
     'sports_equipment' =>'Доски и лыжи',
     'Boots' => 'Ботинки',
